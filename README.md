@@ -34,6 +34,14 @@ adapt to your own stack, tools, and data stores.
 |-------|--------------|
 | `connect-channel` | End-to-end Slack / Telegram / Discord / WhatsApp connection |
 
+## See it in action
+
+- **[Example output](examples/daily-briefer-output.md)** — what the
+  `daily-briefer` actually posts each morning.
+- **[Wiring guide](docs/wiring-guide.md)** — take `daily-briefer` from a
+  markdown template to something that posts to you every day (channel,
+  data sources, scheduler, context).
+
 ## How to use
 
 1. Pick a skill, copy its folder into your agent's skills directory.
